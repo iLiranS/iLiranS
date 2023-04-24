@@ -29,7 +29,7 @@
 | :-------- | :------- | :------------------------- |
 | [Hoop-Cast](https://hoop-cast.vercel.app/)| `website` | predict nba matches |
 | [Portfolio](https://ilirans.vercel.app/)| `website` | my personal portfolio |
-| [Web-Frenzy](word-frenzy-game.vercel.app)| `website` | multiplayer game |
+| [Word-Frenzy](https://word-frenzy-game.vercel.app/)| `website` | multiplayer game |
 
 
 
