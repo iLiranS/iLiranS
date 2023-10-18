@@ -29,6 +29,7 @@
 #### Latest Projects
 | Name | Type     | Description                |
 | :-------- | :------- | :------------------------- |
+| [PashutAnglit](https://github.com/iLiranS/Pashut-Anglit)| `website` | Hebrew-English vocabulary |
 | [AnimeEcom](https://github.com/iLiranS/AnimeEcom)| `website` | Anime shopping platform |
 | [Hoop-Cast](https://github.com/iLiranS/HoopCast)| `website` | predict nba matches |
 | [Portfolio](https://github.com/iLiranS/portfolio_new)| `website` | my personal portfolio 
