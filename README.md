@@ -1,5 +1,5 @@
 
-## 🗿 Liran 
+## Liran 
 
 
 
@@ -29,6 +29,7 @@
 #### Latest Projects
 | Name | Type     | Description                |
 | :-------- | :------- | :------------------------- |
+| [Draft Editor](https://github.com/iLiranS/tailwind-draftjs-shadcn-wysiwygEditor)| `tool` | Real time React text editor |
 | [PashutAnglit](https://github.com/iLiranS/Pashut-Anglit)| `website` | Hebrew-English vocabulary |
 | [AnimeEcom](https://github.com/iLiranS/AnimeEcom)| `website` | Anime shopping platform |
 | [Hoop-Cast](https://github.com/iLiranS/HoopCast)| `website` | predict nba matches |
