@@ -21,7 +21,7 @@
 
 <br/>
 
-##### In addition I work with technologies like Redux, Zustand, Firebase, and more.
+##### In addition I work with technologies like Redux, Zod, Zustand, Firebase, and more.
 
 ## [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://lirans.vercel.app/)
 
@@ -29,6 +29,7 @@
 #### Latest Projects
 | Name | Type     | Description                |
 | :-------- | :------- | :------------------------- |
+| [Vote Arena](https://github.com/iLiranS/Vote-Arena)| `website` | Polling Platform |
 | [Draft Editor](https://github.com/iLiranS/tailwind-draftjs-shadcn-wysiwygEditor)| `tool` | Real time React text editor |
 | [PashutAnglit](https://github.com/iLiranS/Pashut-Anglit)| `website` | Hebrew-English vocabulary |
 | [AnimeEcom](https://github.com/iLiranS/AnimeEcom)| `website` | Anime shopping platform |
