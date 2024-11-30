@@ -1,10 +1,4 @@
-
-## Liran 
-
-
-
-`Front end web developer [full stack soon 😴]`
-## [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://lirans.vercel.app/)
+`Front end web developer (Full-Stack soon)`
 ### 🛠 Tech Stack
 
 
@@ -18,32 +12,22 @@
 <img align="left" alt="Prisma" width="30px" style="padding-right:10px;" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/prisma.png" />
 
 <br/>
-<br/>
 
-#### ⌛ Currently learning
-<img align="left" alt="Node" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
-<img align="left" alt="Tauri" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg" />
-<br/>
-<br/>
+##### 🔥 Other Cool Tech I use : *Zustand , Shadcn , Framer-motion , Zod , Supabase , Spline.*
 
-#### ✨ On my Wishlist
-<img align="left" alt="ThreeJS" width="100px" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/5307958/38454395-eba34a8a-3a90-11e8-9c95-680a7aea037f.png" />
-<img align="left" alt="React_Native" width="100px" height="50px" style="padding-right:10px;" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*xDi2csEAWxu95IEkaNdFUQ.png" />
-
-
-
-
-<br/>
-<br/>
-
-#### 🔥Cool Tech I use
-Zustand , Shadcn , Framer-motion , Zod , Supabase , Spline
+#### Roadmap 📌
+| Tech | Field | Progress |
+| :-------- | :------- | :------------------------- |
+|Node <img align="left" alt="Node" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" />   | `back end` | Studying...|
+| MongoDB <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331488/mongodb.svg" /> | `database` | Studying...|
+| React Native <img align="left" alt="ReactNative" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" /> | `Mobile Apps` | Studying...|
+| Three JS <img align="left" alt="ThreeJS" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRPDhSqqt_dCHFlEaOlTagl2DrZ86dkruYug&s" /> | `3D websites` | Wishlist|
+| Tauri <img align="left" alt="Tauri" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg" /> | `Software` | Wishlist|
 
 
 
 
-#### Latest Projects
+#### My Latest Projects 📄
 | Name | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | [Vote Arena](https://github.com/iLiranS/Vote-Arena)| `website` | Polling Platform |
