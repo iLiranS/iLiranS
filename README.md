@@ -1,4 +1,6 @@
 `Front end web developer (Full-Stack soon)`
+![terminal](https://github.com/user-attachments/assets/06cf6831-9cc8-4e10-8bc8-6f3f5469657b)
+
 ### 🛠 Tech Stack
 
 
