@@ -1,5 +1,5 @@
-Hi there 👋, I’m LiranS
-`front-end web Developer`
+Hi👋, I’m LiranS
+`full-stack web developer`
 
 ###   <p align="center"> 🛠 Tech Stack </p>
 
@@ -14,7 +14,7 @@ Hi there 👋, I’m LiranS
 
   🔥 **Cool Tech I use** : Zustand , Shadcn , Framer-motion , Zod , Spline. <br/>
   🔮 **Future Plans** : In-depth Node.js + mongoDB , React Native , Three.js <br/>
-  📥 **Contact me** : `liransdev@gmail.com`
+  📥 **Contact me** : <a href="https://www.linkedin.com/in/lirans/">Linkedin</a> or `liransdev@gmail.com`
 
 
 
