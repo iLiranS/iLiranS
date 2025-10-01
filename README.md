@@ -7,8 +7,5 @@ Hi👋, I’m LiranS
 </p>
 
 
-<br/>
-  📬 **Get in touch** : <a href="https://www.linkedin.com/in/lirans/">Linkedin</a> or `liransdev@gmail.com`
 
-
-
+📬 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/lirans/) or [liransdev@gmail.com](mailto:liransdev@gmail.com)
