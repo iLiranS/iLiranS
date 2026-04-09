@@ -6,7 +6,7 @@ Hi👋, I’m LiranS
   <img style="margin: 10px;" height="200" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ilirans&layout=compact&theme=dark&hide_border=true" />
 </p>
 <p align="center">
-  <img style="margin: 10px;" height="200" src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,tailwind,threejs,vite,prisma,express,mongodb,supabase,firebase,vercel,nodejs,pnpm,vscode,postman&perline=5"/>
+  <img style="margin: 10px;" height="200" src="https://skillicons.dev/icons?i=html,css,js,ts,py,mysql,postgres,react,nextjs,tailwind,threejs,vite,prisma,express,mongodb,supabase,firebase,vercel,nodejs,vscode,tauri,&perline=7"/>
 </p>
 
 
