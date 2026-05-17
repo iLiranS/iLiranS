@@ -2,7 +2,7 @@ Hi👋, I’m LiranS
 `Full-Stack Web Developer`
 
 <p align="center">
-  <img style="margin: 10px;" height="200" src="https://github-readme-stats-fast.vercel.app/api?username=ilirans&show_icons=true&theme=dark&hide_border=true" />
+  <img style="margin: 10px;" height="200" src="https://github-readme-stats-fast.vercel.app/api/streak?username=ilirans&show_icons=true&theme=dark&hide_border=true" />
   <img style="margin: 10px;" height="200" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ilirans&layout=compact&theme=dark&hide_border=true" />
 </p>
 <p align="center">
