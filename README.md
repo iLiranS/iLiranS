@@ -1,7 +1,4 @@
-Hi👋, I’m LiranS
-`Full-Stack Developer`
-<br/>
-Currently working on [Annota](https://github.com/iLiranS/Annota) ✍️
+Hi 👋, I’m a Full-Stack Developer who likes experimenting 🧪
 <br/>
 📬 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/lirans/) or [liransdev@gmail.com](mailto:liransdev@gmail.com)
 
